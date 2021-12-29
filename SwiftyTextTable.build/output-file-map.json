@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SwiftyTextTable.build/SwiftyTextTable.d",
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SwiftyTextTable.build/SwiftyTextTable.o",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SwiftyTextTable.build/master.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SwiftyTextTable/Source/SwiftyTextTable/TextTable.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SwiftyTextTable.build/TextTable.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SwiftyTextTable.build/TextTable~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SwiftyTextTable.build/TextTable.swiftdeps"
+  }
+}

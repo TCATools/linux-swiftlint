@@ -1,0 +1,232 @@
+{
+  "": {
+    "dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SourceKittenFramework.d",
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SourceKittenFramework.o",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/master.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/ByteCount.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/ByteCount.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/ByteCount~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/ByteCount.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/ByteRange.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/ByteRange.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/ByteRange~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/ByteRange.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Clang+SourceKitten.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Clang+SourceKitten.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Clang+SourceKitten~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Clang+SourceKitten.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/ClangTranslationUnit.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/ClangTranslationUnit.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/ClangTranslationUnit~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/ClangTranslationUnit.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/CodeCompletionItem.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/CodeCompletionItem.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/CodeCompletionItem~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/CodeCompletionItem.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/CursorInfo+Parsing.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/CursorInfo+Parsing.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/CursorInfo+Parsing~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/CursorInfo+Parsing.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Dictionary+Merge.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Dictionary+Merge.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Dictionary+Merge~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Dictionary+Merge.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Documentation.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Documentation.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Documentation~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Documentation.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Exec.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Exec.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Exec~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Exec.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/File+Hashable.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/File+Hashable.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/File+Hashable~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/File+Hashable.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/File.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/File.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/File~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/File.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/JSONOutput.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/JSONOutput.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/JSONOutput~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/JSONOutput.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Language.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Language.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Language~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Language.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Line.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Line.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Line~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Line.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/LinuxCompatibility.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/LinuxCompatibility.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/LinuxCompatibility~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/LinuxCompatibility.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Module.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Module.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Module~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Module.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/ObjCDeclarationKind.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/ObjCDeclarationKind.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/ObjCDeclarationKind~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/ObjCDeclarationKind.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/OffsetMap.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/OffsetMap.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/OffsetMap~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/OffsetMap.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Parameter.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Parameter.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Parameter~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Parameter.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Request.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Request.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Request~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Request.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/SourceDeclaration.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SourceDeclaration.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SourceDeclaration~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SourceDeclaration.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/SourceKitObject.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SourceKitObject.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SourceKitObject~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SourceKitObject.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/SourceLocation.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SourceLocation.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SourceLocation~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SourceLocation.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/StatementKind.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/StatementKind.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/StatementKind~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/StatementKind.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/String+SourceKitten.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/String+SourceKitten.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/String+SourceKitten~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/String+SourceKitten.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/StringView+SourceKitten.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/StringView+SourceKitten.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/StringView+SourceKitten~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/StringView+SourceKitten.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/StringView.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/StringView.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/StringView~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/StringView.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Structure.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Structure.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Structure~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Structure.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/SwiftDeclarationAttributeKind.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftDeclarationAttributeKind.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftDeclarationAttributeKind~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftDeclarationAttributeKind.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/SwiftDeclarationKind.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftDeclarationKind.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftDeclarationKind~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftDeclarationKind.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/SwiftDocKey.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftDocKey.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftDocKey~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftDocKey.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/SwiftDocs.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftDocs.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftDocs~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftDocs.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/SwiftVersion.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftVersion.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftVersion~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SwiftVersion.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/SyntaxKind.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SyntaxKind.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SyntaxKind~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SyntaxKind.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/SyntaxMap.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SyntaxMap.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SyntaxMap~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SyntaxMap.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/SyntaxToken.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SyntaxToken.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SyntaxToken~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/SyntaxToken.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Text.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Text.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Text~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Text.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/UID.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/UID.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/UID~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/UID.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/UIDRepresentable.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/UIDRepresentable.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/UIDRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/UIDRepresentable.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Version.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Version.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Version~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Version.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/Xcode.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Xcode.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Xcode~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/Xcode.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/XcodeBuildSetting.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/XcodeBuildSetting.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/XcodeBuildSetting~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/XcodeBuildSetting.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/library_wrapper.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/library_wrapper.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/library_wrapper~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/library_wrapper.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/library_wrapper_Clang_C.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/library_wrapper_Clang_C.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/library_wrapper_Clang_C~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/library_wrapper_Clang_C.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKittenFramework/library_wrapper_SourceKit.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/library_wrapper_SourceKit.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/library_wrapper_SourceKit~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SourceKittenFramework.build/library_wrapper_SourceKit.swiftdeps"
+  }
+}

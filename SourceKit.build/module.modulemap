@@ -1,0 +1,4 @@
+module SourceKit {
+    umbrella header "/data/SwiftLint/.build/checkouts/SourceKitten/Source/SourceKit/include/SourceKit.h"
+    export *
+}

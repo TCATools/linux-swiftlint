@@ -1,0 +1,97 @@
+{
+  "": {
+    "dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/swiftlint.d",
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/swiftlint.o",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/master.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Commands/Analyze.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Analyze.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Analyze~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Analyze.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Commands/Docs.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Docs.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Docs~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Docs.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Commands/GenerateDocs.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/GenerateDocs.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/GenerateDocs~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/GenerateDocs.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Commands/Lint.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Lint.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Lint~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Lint.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Commands/Rules.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Rules.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Rules~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Rules.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Commands/SwiftLint.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/SwiftLint.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/SwiftLint~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/SwiftLint.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Commands/Version.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Version.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Version~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Commands/Version.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Extensions/Array+SwiftLint.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Extensions/Array+SwiftLint.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Extensions/Array+SwiftLint~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Extensions/Array+SwiftLint.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Extensions/Configuration+CommandLine.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Extensions/Configuration+CommandLine.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Extensions/Configuration+CommandLine~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Extensions/Configuration+CommandLine.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Extensions/Reporter+CommandLine.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Extensions/Reporter+CommandLine.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Extensions/Reporter+CommandLine~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Extensions/Reporter+CommandLine.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Helpers/Benchmark.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/Benchmark.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/Benchmark~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/Benchmark.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Helpers/CompilerArgumentsExtractor.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/CompilerArgumentsExtractor.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/CompilerArgumentsExtractor~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/CompilerArgumentsExtractor.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Helpers/LintOrAnalyzeArguments.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/LintOrAnalyzeArguments.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/LintOrAnalyzeArguments~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/LintOrAnalyzeArguments.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Helpers/LintOrAnalyzeCommand.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/LintOrAnalyzeCommand.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/LintOrAnalyzeCommand~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/LintOrAnalyzeCommand.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Helpers/LintableFilesVisitor.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/LintableFilesVisitor.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/LintableFilesVisitor~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/LintableFilesVisitor.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Helpers/Signposts.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/Signposts.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/Signposts~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/Signposts.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/Helpers/SwiftLintError.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/SwiftLintError.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/SwiftLintError~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/Helpers/SwiftLintError.swiftdeps"
+  },
+  "/data/SwiftLint/Source/swiftlint/main.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/main.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/main~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/swiftlint.build/main.swiftdeps"
+  }
+}

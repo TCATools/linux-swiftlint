@@ -1,0 +1,182 @@
+{
+  "": {
+    "dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/ArgumentParser.d",
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/ArgumentParser.o",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/master.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/BashCompletionsGenerator.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Completions/BashCompletionsGenerator.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Completions/BashCompletionsGenerator~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Completions/BashCompletionsGenerator.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/CompletionsGenerator.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Completions/CompletionsGenerator.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Completions/CompletionsGenerator~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Completions/CompletionsGenerator.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/FishCompletionsGenerator.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Completions/FishCompletionsGenerator.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Completions/FishCompletionsGenerator~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Completions/FishCompletionsGenerator.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/ZshCompletionsGenerator.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Completions/ZshCompletionsGenerator.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Completions/ZshCompletionsGenerator~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Completions/ZshCompletionsGenerator.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Argument.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/Argument.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/Argument~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/Argument.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentHelp.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/ArgumentHelp.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/ArgumentHelp~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/ArgumentHelp.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/CompletionKind.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/CompletionKind.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/CompletionKind~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/CompletionKind.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Errors.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/Errors.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/Errors~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/Errors.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Flag.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/Flag.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/Flag~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/Flag.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/NameSpecification.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/NameSpecification.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/NameSpecification~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/NameSpecification.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Option.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/Option.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/Option~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/Option.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/OptionGroup.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/OptionGroup.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/OptionGroup~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Properties/OptionGroup.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/CommandConfiguration.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/CommandConfiguration.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/CommandConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/CommandConfiguration.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/EnumerableFlag.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/EnumerableFlag.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/EnumerableFlag~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/EnumerableFlag.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ExpressibleByArgument.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/ExpressibleByArgument.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/ExpressibleByArgument~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/ExpressibleByArgument.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArguments.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/ParsableArguments.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/ParsableArguments~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/ParsableArguments.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArgumentsValidation.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/ParsableArgumentsValidation.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/ParsableArgumentsValidation~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/ParsableArgumentsValidation.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableCommand.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/ParsableCommand.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/ParsableCommand~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsable Types/ParsableCommand.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDecoder.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ArgumentDecoder.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ArgumentDecoder~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ArgumentDecoder.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDefinition.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ArgumentDefinition.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ArgumentDefinition~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ArgumentDefinition.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentSet.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ArgumentSet.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ArgumentSet~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ArgumentSet.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/CommandParser.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/CommandParser.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/CommandParser~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/CommandParser.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputOrigin.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/InputOrigin.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/InputOrigin~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/InputOrigin.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Name.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/Name.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/Name~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/Name.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Parsed.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/Parsed.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/Parsed~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/Parsed.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParsedValues.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ParsedValues.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ParsedValues~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ParsedValues.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParserError.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ParserError.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ParserError~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/ParserError.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/SplitArguments.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/SplitArguments.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/SplitArguments~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Parsing/SplitArguments.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpCommand.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Usage/HelpCommand.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Usage/HelpCommand~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Usage/HelpCommand.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpGenerator.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Usage/HelpGenerator.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Usage/HelpGenerator~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Usage/HelpGenerator.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/MessageInfo.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Usage/MessageInfo.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Usage/MessageInfo~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Usage/MessageInfo.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/UsageGenerator.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Usage/UsageGenerator.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Usage/UsageGenerator~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Usage/UsageGenerator.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/SequenceExtensions.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Utilities/SequenceExtensions.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Utilities/SequenceExtensions~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Utilities/SequenceExtensions.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/StringExtensions.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Utilities/StringExtensions.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Utilities/StringExtensions~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Utilities/StringExtensions.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Tree.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Utilities/Tree.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Utilities/Tree~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/ArgumentParser.build/Utilities/Tree.swiftdeps"
+  }
+}

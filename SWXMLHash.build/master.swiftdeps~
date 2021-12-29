@@ -1,0 +1,7 @@
+version: "Swift version 5.4.2 (swift-5.4.2-RELEASE)"
+options: "5513d743a8e29a148ccf50aae397c603"
+build_time: [1626252587, 9273167]
+inputs:
+  "/data/SwiftLint/.build/checkouts/SWXMLHash/Source/SWXMLHash.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/SWXMLHash/Source/XMLIndexer+XMLIndexerDeserializable.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/SWXMLHash/Source/shim.swift": [9223372036, 854775807]

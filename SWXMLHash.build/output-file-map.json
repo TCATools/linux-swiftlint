@@ -1,0 +1,22 @@
+{
+  "": {
+    "dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SWXMLHash.build/SWXMLHash.d",
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SWXMLHash.build/SWXMLHash.o",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SWXMLHash.build/master.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SWXMLHash/Source/SWXMLHash.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SWXMLHash.build/SWXMLHash.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SWXMLHash.build/SWXMLHash~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SWXMLHash.build/SWXMLHash.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SWXMLHash/Source/XMLIndexer+XMLIndexerDeserializable.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SWXMLHash.build/XMLIndexer+XMLIndexerDeserializable.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SWXMLHash.build/XMLIndexer+XMLIndexerDeserializable~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SWXMLHash.build/XMLIndexer+XMLIndexerDeserializable.swiftdeps"
+  },
+  "/data/SwiftLint/.build/checkouts/SWXMLHash/Source/shim.swift": {
+    "object": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SWXMLHash.build/shim.swift.o",
+    "swiftmodule": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SWXMLHash.build/shim~partial.swiftmodule",
+    "swift-dependencies": "/data/SwiftLint/.build/x86_64-unknown-linux-gnu/release/SWXMLHash.build/shim.swiftdeps"
+  }
+}

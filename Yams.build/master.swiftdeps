@@ -1,0 +1,19 @@
+version: "Swift version 5.4.2 (swift-5.4.2-RELEASE)"
+options: "68000ddced952558c737643651102c41"
+build_time: [1626253507, 320845024]
+inputs:
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Constructor.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Decoder.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Emitter.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Encoder.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Mark.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Node.Mapping.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Node.Scalar.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Node.Sequence.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Node.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Parser.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Representer.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Resolver.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/String+Yams.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/Tag.swift": [9223372036, 854775807]
+  "/data/SwiftLint/.build/checkouts/Yams/Sources/Yams/YamlError.swift": [9223372036, 854775807]

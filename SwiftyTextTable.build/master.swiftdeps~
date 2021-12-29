@@ -1,0 +1,5 @@
+version: "Swift version 5.4.2 (swift-5.4.2-RELEASE)"
+options: "7c22e36846690a6bf48c4d0304e5c959"
+build_time: [1626252587, 10174347]
+inputs:
+  "/data/SwiftLint/.build/checkouts/SwiftyTextTable/Source/SwiftyTextTable/TextTable.swift": [9223372036, 854775807]

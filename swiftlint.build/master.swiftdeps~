@@ -1,0 +1,22 @@
+version: "Swift version 5.4.2 (swift-5.4.2-RELEASE)"
+options: "da61f288725ad354b966ee9cfa33008b"
+build_time: [1626252715, 9094408]
+inputs:
+  "/data/SwiftLint/Source/swiftlint/Commands/Analyze.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Commands/Docs.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Commands/GenerateDocs.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Commands/Lint.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Commands/Rules.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Commands/SwiftLint.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Commands/Version.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Extensions/Array+SwiftLint.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Extensions/Configuration+CommandLine.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Extensions/Reporter+CommandLine.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Helpers/Benchmark.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Helpers/CompilerArgumentsExtractor.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Helpers/LintOrAnalyzeArguments.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Helpers/LintOrAnalyzeCommand.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Helpers/LintableFilesVisitor.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Helpers/Signposts.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/Helpers/SwiftLintError.swift": [9223372036, 854775807]
+  "/data/SwiftLint/Source/swiftlint/main.swift": [9223372036, 854775807]

@@ -1,0 +1,143 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Swift version 5.4.2 (swift-5.4.2-RELEASE)
+// swift-module-flags: -disable-objc-attr-requires-foundation-module -target x86_64-unknown-linux-gnu -disable-objc-interop -enable-library-evolution -module-link-name swift_Concurrency -parse-stdlib -swift-version 5 -O -enforce-exclusivity=unchecked -enable-experimental-concurrency -module-name _Concurrency
+import Swift
+public protocol Actor : AnyObject {
+  func enqueue(partialTask: _Concurrency.PartialAsyncTask)
+}
+@_silgen_name("swift_defaultActor_initialize")
+public func _defaultActorInitialize(_ actor: Swift.AnyObject)
+@_silgen_name("swift_defaultActor_destroy")
+public func _defaultActorDestroy(_ actor: Swift.AnyObject)
+@_silgen_name("swift_defaultActor_enqueue")
+public func _defaultActorEnqueue(partialTask: _Concurrency.PartialAsyncTask, actor: Swift.AnyObject)
+@frozen public struct PartialAsyncTask {
+  private var context: Builtin.Job
+  public func run()
+}
+@frozen public struct UnsafeContinuation<T> {
+  @usableFromInline
+  internal var context: Builtin.RawUnsafeContinuation
+  @_alwaysEmitIntoClient internal init(_ context: Builtin.RawUnsafeContinuation) {
+    self.context = context
+  }
+  @_silgen_name("swift_continuation_resume")
+  public func resume(returning value: __owned T)
+}
+@frozen public struct UnsafeThrowingContinuation<T> {
+  @usableFromInline
+  internal var context: Builtin.RawUnsafeContinuation
+  @_alwaysEmitIntoClient internal init(_ context: Builtin.RawUnsafeContinuation) {
+    self.context = context
+  }
+  @_silgen_name("swift_continuation_throwingResume")
+  public func resume(returning: __owned T)
+  @_silgen_name("swift_continuation_throwingResumeWithError")
+  public func resume(throwing: __owned Swift.Error)
+}
+@_alwaysEmitIntoClient public func withUnsafeContinuation<T>(_ fn: (_Concurrency.UnsafeContinuation<T>) -> Swift.Void) async -> T {
+  return await Builtin.withUnsafeContinuation {
+    fn(UnsafeContinuation<T>($0))
+  }
+}
+@_alwaysEmitIntoClient public func withUnsafeThrowingContinuation<T>(_ fn: (_Concurrency.UnsafeThrowingContinuation<T>) -> Swift.Void) async throws -> T {
+  return await try Builtin.withUnsafeThrowingContinuation {
+    fn(UnsafeThrowingContinuation<T>($0))
+  }
+}
+public enum Task {
+}
+extension Task {
+  public static func currentPriority() async -> _Concurrency.Task.Priority
+  public enum Priority : Swift.Int, Swift.Comparable {
+    case userInteractive
+    case userInitiated
+    case `default`
+    case utility
+    case background
+    case unspecified
+    public static func < (lhs: _Concurrency.Task.Priority, rhs: _Concurrency.Task.Priority) -> Swift.Bool
+    public init?(rawValue: Swift.Int)
+    public typealias RawValue = Swift.Int
+    public var rawValue: Swift.Int {
+      get
+    }
+  }
+}
+extension Task {
+  public struct Handle<Success> {
+    public func get() async throws -> Success
+    public func cancel()
+  }
+}
+extension Task {
+  public static func runDetached<T>(priority: _Concurrency.Task.Priority = .default, operation: @escaping () async -> T) -> _Concurrency.Task.Handle<T>
+  public static func runDetached<T>(priority: _Concurrency.Task.Priority = .default, operation: @escaping () async throws -> T) -> _Concurrency.Task.Handle<T>
+}
+public func _runAsyncHandler(operation: @escaping () async -> ())
+extension Task {
+  public static func sleep(until: _Concurrency.Task.Deadline) async
+  public static func yield() async
+}
+@_silgen_name("swift_task_enqueueGlobal")
+@usableFromInline
+internal func _enqueueJobGlobal(_ task: Builtin.Job)
+@_silgen_name("swift_task_runAndBlockThread")
+public func runAsyncAndBlock(_ asyncFun: @escaping () async -> ())
+public func _taskFutureGet<T>(_ task: Builtin.NativeObject) async -> T
+public func _taskFutureGetThrowing<T>(_ task: Builtin.NativeObject) async throws -> T
+public func _runChildTask<T>(operation: @escaping () async throws -> T) async -> Builtin.NativeObject
+extension Task {
+  public static func isCancelled() async -> Swift.Bool
+  public static func checkCancellation() async throws
+  public static func withCancellationHandler<T>(handler: () -> (), operation: () async throws -> T) async throws -> T
+  public struct CancellationError : Swift.Error {
+    public init()
+  }
+}
+extension Task {
+  public static func currentDeadline() async -> _Concurrency.Task.Deadline
+  public static func withDeadline<T>(in interval: _Concurrency.Task._TimeInterval, operation: () async throws -> T) async rethrows -> T
+  public static func withDeadline<T>(_ deadline: _Concurrency.Task.Deadline, operation: () async throws -> T) async rethrows -> T
+  public struct Deadline {
+    public typealias WallTime = Swift.UInt64
+    public init(at time: _Concurrency.Task.Deadline.WallTime)
+    public static var distantFuture: _Concurrency.Task.Deadline {
+      get
+    }
+    public static func `in`(_ interval: _Concurrency.Task._TimeInterval) -> _Concurrency.Task.Deadline
+    public var isOverdue: Swift.Bool {
+      get
+    }
+    public var hasTimeLeft: Swift.Bool {
+      get
+    }
+  }
+}
+extension Task {
+  public struct _TimeInterval : Swift.Equatable, Swift.Comparable {
+    public static func seconds(_ s: Swift.UInt64) -> _Concurrency.Task._TimeInterval
+    public static func milliseconds(_ ms: Swift.UInt64) -> _Concurrency.Task._TimeInterval
+    public static func microseconds(_ us: Swift.UInt64) -> _Concurrency.Task._TimeInterval
+    public static func nanoseconds(_ ns: Swift.UInt64) -> _Concurrency.Task._TimeInterval
+    public static var never: _Concurrency.Task._TimeInterval {
+      get
+    }
+    public static func < (lhs: _Concurrency.Task._TimeInterval, rhs: _Concurrency.Task._TimeInterval) -> Swift.Bool
+    public static func == (a: _Concurrency.Task._TimeInterval, b: _Concurrency.Task._TimeInterval) -> Swift.Bool
+  }
+}
+extension Task {
+  public static func withGroup<TaskResult, BodyResult>(resultType: TaskResult.Type, returning returnType: BodyResult.Type = BodyResult.self, body: (inout _Concurrency.Task.Group<TaskResult>) async throws -> BodyResult) async rethrows -> BodyResult
+  public struct Group<TaskResult> {
+    public mutating func add(overridingPriority: _Concurrency.Task.Priority? = nil, operation: () async throws -> TaskResult) async
+    public mutating func addWithHandle(overridingPriority: _Concurrency.Task.Priority? = nil, operation: () async throws -> TaskResult) async -> _Concurrency.Task.Handle<TaskResult>
+    public mutating func next() async throws -> TaskResult?
+    public var isEmpty: Swift.Bool {
+      get
+    }
+    public mutating func cancelAll()
+  }
+}
+extension _Concurrency.Task.Priority : Swift.Hashable {}
+extension _Concurrency.Task.Priority : Swift.RawRepresentable {}
